@@ -1,6 +1,6 @@
 # Noty-app
 
-This is just a showcase repo for the app I created using Flutter and Firebase.\
+This is just a showcase repo for the app I created using Flutter and Firebase.
 
 It's a simple app with all of the basic functionality that one app would have, such as: real time events, notifications, authentification, user profile management, chat, permission handling and use of native platform features. Feel free to try it and see the Flutter app in action.
 
